@@ -1,0 +1,14 @@
+# Plugin default Placeholders:
+#
+# {name} - Username of the player.
+# {displayname} - Displayname of the player.
+# {world} - Name of the world the player is in.
+# {message} - Message that the player has sent.
+# ----------------------------------------------
+# The Chat format: [You can use the plugin placeholders or you can use placeholders form PlaceholdersAPI]
+PigFormat: '{displayname}&r: {message}'
+# -------------------------------------------------------
+# The plugin messages:
+messages:
+  reload: '&dOink! &fPlugin succesfully reloaded'
+  noperms: '&dOink! &fYou do not have the permission for that'
