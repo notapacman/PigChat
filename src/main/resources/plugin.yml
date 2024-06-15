@@ -6,6 +6,6 @@ description: Design your own server chat with placeholders from PlaceholdersAPI
 website: https://impigtu.github.io/pig
 authors: [ PigTu ]
 commands:
-  chatformatter:
+  pigchat:
     aliases: pig
     permission: pig.reload
