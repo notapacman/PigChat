@@ -1,11 +1,11 @@
 name: Pig Chat
 version: '${project.version}'
 main: ru.pigtu.pigchat.PigChat
-api-version: '1.19'
+api-version: '1.18'
 description: Design your own server chat with placeholders from PlaceholdersAPI
 website: https://impigtu.github.io/pig
 authors: [ PigTu ]
 commands:
-  chatformatter:
+  pigchat:
     aliases: pig
     permission: pig.reload
